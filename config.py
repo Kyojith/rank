@@ -1,0 +1,2 @@
+Token = ""
+Bot_prefix = "!"
